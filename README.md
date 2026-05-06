@@ -1,5 +1,7 @@
 # Quotes Listing Application
 Deployment link-https://free-api-quotes-listing-application-omega.vercel.app/
+
+
 A tiny frontend app that displays a list of quotes.
 
 ## Files
